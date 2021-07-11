@@ -1,1 +1,14 @@
-# SBD-tugas-8
+NAMA : SITI NUR HAZIZAH
+
+NIM  : 311910105
+
+KELAS: TI.19.B2
+
+
+DESAIN DATABASE MAHASISWA
+
+![sbd8](https://user-images.githubusercontent.com/81575487/125195503-1cb13980-e280-11eb-8012-906334427961.PNG)
+
+TAMPILAN HOME
+
+![sbd81](https://user-images.githubusercontent.com/81575487/125195508-220e8400-e280-11eb-853e-96954eb92ddb.PNG)
